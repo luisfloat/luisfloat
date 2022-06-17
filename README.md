@@ -1,5 +1,3 @@
-# About me
-
 - 👋 Hey there, it's Honor;
 - 👀 Interested in **Software Engineering**;
 - 🌱 Currently learning **Web Technologies**;
