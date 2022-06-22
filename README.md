@@ -1,13 +1,25 @@
 ## About me
 
-- 👋 Hey there, it's Honor;
-- 👀 Interested in **Software Engineering**;
-- 🌱 Currently learning autodidactically **Web Technologies**;
-- 🌐 Freelancing, but **open to work**;
-- 📫 You can reach me at *ctc@honor2045.com* or any social media.
+
+<table align="center">
+  <tr>
+    <td>
+      <ul>
+        <li>👋 Hey there, it's Honor;</li>
+        <li>👀 Interested in **Software Engineering**;</li>
+        <li>🌱 Currently learning autodidactically **Web Technologies**;</li></li>
+        <li>🌐 Freelancing, but **open to work**;</li>
+        <li>📫 You can reach me at *ctc@honor2045.com* or any social media.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="my_octocat.svg" width="100%" height="100%">
+    </td>
+  </tr>
+</table>
 
 > **Note:** I also have interest in Philosophy, Digital Design and Scifi Art.
-
+  
 ### Techs
 
 ##### Skills:
