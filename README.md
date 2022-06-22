@@ -23,7 +23,7 @@
   </tr>
 </table>
 
-### Techs
+### Technologies
 
 <table>
   <tr>
@@ -50,10 +50,10 @@
   
 </table>
 
-#### Workspace:
+#### Workspace
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="32" height="32"/>
 
-### Contact me:
+### Contact me
 
 <a href="https://instagram.com/honor.2045"><img src="https://img.shields.io/badge/-Instagram-30363D?style=flat&amp;logo=instagram" alt="Instagram"></a> <a href="https://twitter.com/honor2045"><img src="https://img.shields.io/badge/-Twitter-30363D?style=flat&amp;logo=twitter" alt="Twitter"></a> <a href="mailto:contact@honor2045.com"><img src="https://img.shields.io/badge/-Gmail-30363D?style=flat&amp;logo=gmail" alt="Gmail"></a>
