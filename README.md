@@ -1,25 +1,28 @@
-## About me
+## Honor Github Cover
 
+<div>
+<img src="my_octocat.svg" width="25%" height="25%">
+</div>
 
 <table>
   <tr>
     <td>
       <ul>
-        <li>Hey there, it's Honor;</li>
-        <li>Interested in **Software Engineering**;</li>
-        <li>Currently learning autodidactically **Web Technologies**;</li></li>
-        <li>Freelancing, but **open to work**;</li>
-        <li>You can reach me at *ctc@honor2045.com* or any social media.</li>
+        <p>
+          Hey there, it's Honor! <br>
+          I'm interested in <strong>Software Engineering</strong>. <br>
+          Currently learning autodidactically <strong>Web Technologies</strong>. <br>
+          I'm freelancing, but <strong>open to work</strong>. <br>
+          You can reach me at <strong>ctc@honor2045.com</strong> or any social media.
+        </p>
+        <blockquote>
+        <p><strong>Note:</strong> I also have interest in Philosophy, Digital Design and Scifi Art.</p>
+        </blockquote>
       </ul>
-    </td>
-    <td>
-      <img src="my_octocat.svg" width="100%" height="100%">
     </td>
   </tr>
 </table>
 
-> **Note:** I also have interest in Philosophy, Digital Design and Scifi Art.
-  
 ### Techs
 
 <table>
