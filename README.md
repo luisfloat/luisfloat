@@ -52,7 +52,7 @@
 
 #### Workspace
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="32" height="32"/>
+<a href="https://https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-Vscode-30363D?style=flat&amp;logo=visualstudio" alt="Visual Studio Code"></a> <a href="https://google.com/chrome"><img src="https://img.shields.io/badge/-Chrome-30363D?style=flat&amp;logo=chrome" alt="Chrome"></a> <a href="https://ubuntu.com"><img src="https://img.shields.io/badge/-Ubuntu-30363D?style=flat&amp;logo=ubuntu" alt="Ubuntu"></a> <a href="https://android.com"><img src="https://img.shields.io/badge/-Android-30363D?style=flat&amp;logo=android" alt="Android"></a>
 
 ### Contact me
 
