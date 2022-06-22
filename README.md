@@ -1,7 +1,7 @@
 ## Honor Github Cover
 
 <div>
-<img src="my_octocat.svg" width="25%" height="25%">
+<img src="my_octocat.svg" width="256px" height="256px">
 </div>
 
 <table>
