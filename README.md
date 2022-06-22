@@ -1,4 +1,6 @@
-## Honor Github Cover
+## Honor2045
+
+<a href="https://github.com/honor2045"><img src="https://img.shields.io/badge/working-freelancing;%20open%20to%20work-00991f?style=flat" alt="working status"></a> <a href="https://github.com/honor2045"><img src="https://img.shields.io/badge/learning-autodidactically-00991f?style=flat" alt="learning status"></a>
 
 <div>
 <img src="my_octocat.svg" width="256px" height="256px">
@@ -11,7 +13,7 @@
         <p>
           Hey there, it's Honor! <br>
           I'm interested in <strong>Software Engineering</strong>. <br>
-          Currently learning autodidactically <strong>Web Technologies</strong>. <br>
+          Currently learning <strong>Web Technologies</strong>. <br>
           I'm freelancing, but <strong>open to work</strong>. <br>
           You can reach me at <strong>ctc@honor2045.com</strong> or any social media.
         </p>
