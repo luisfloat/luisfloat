@@ -10,9 +10,20 @@
 
 ### Techs
 
-| Skills | Currently Learning | Interest in
-| - | - | -
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="32" height="32"/>  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="32" height="32"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" height="32"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="32" height="32" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="32" height="32" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" width="32" height="32"/>
+##### Skills:
+
+![Javascript](https://img.shields.io/badge/-Javascript-gray?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-blue?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-orange?style=flat&logo=css3) ![Stylus](https://img.shields.io/badge/-Stylus-orange?style=flat&logo=stylus) ![Less](https://img.shields.io/badge/-Less-blue?style=flat&logo=less) ![Sass](https://img.shields.io/badge/-Sass-gray?style=flat&logo=sass) ![Java](https://img.shields.io/badge/-java-red?style=flat&logo=java) ![Gradle](https://img.shields.io/badge/-Gradle-blue?style=flat&logo=gradle) ![Markdown](https://img.shields.io/badge/-Markdown-gray?style=flat&logo=markdown)
+
+##### Currently learning:
+
+![Vue](https://img.shields.io/badge/-vue-gray?style=flat&logo=vue.js) ![TypeScript](https://img.shields.io/badge/-TypeScript-gray?style=flat&logo=typescript) ![NodeJS](https://img.shields.io/badge/-NodeJS-gray?style=flat&logo=node.js) ![NPM](https://img.shields.io/badge/-NPM-gray?style=flat&logo=npm) ![Express](https://img.shields.io/badge/-Express-gray?style=flat&logo=express)
+![Git](https://img.shields.io/badge/-Git-gray?style=flat&logo=git) ![MySQL](https://img.shields.io/badge/-MySQL-gray?style=flat&logo=mysql)
+
+##### Interest in:
+
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-gray?style=flat&logo=bootstrap) ![React](https://img.shields.io/badge/-React-gray?style=flat&logo=react) ![Prisma](https://img.shields.io/badge/-Prisma-gray?style=flat&logo=prisma) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-gray?style=flat&logo=tailwindcss) ![Wordpress](https://img.shields.io/badge/-Wordpress-gray?style=flat&logo=wordpress) ![Woocommerce](https://img.shields.io/badge/-Woocommerce-gray?style=flat&logo=woocommerce) ![Spring](https://img.shields.io/badge/-Spring-gray?style=flat&logo=tailwindcss)
 
 #### Workspace:
 
