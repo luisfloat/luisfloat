@@ -1,15 +1,15 @@
 ## About me
 
 
-<table align="center">
+<table>
   <tr>
     <td>
       <ul>
-        <li>👋 Hey there, it's Honor;</li>
-        <li>👀 Interested in **Software Engineering**;</li>
-        <li>🌱 Currently learning autodidactically **Web Technologies**;</li></li>
-        <li>🌐 Freelancing, but **open to work**;</li>
-        <li>📫 You can reach me at *ctc@honor2045.com* or any social media.</li>
+        <li>Hey there, it's Honor;</li>
+        <li>Interested in **Software Engineering**;</li>
+        <li>Currently learning autodidactically **Web Technologies**;</li></li>
+        <li>Freelancing, but **open to work**;</li>
+        <li>You can reach me at *ctc@honor2045.com* or any social media.</li>
       </ul>
     </td>
     <td>
@@ -22,20 +22,30 @@
   
 ### Techs
 
-##### Skills:
-
-[![Javascript](https://img.shields.io/badge/-Javascript-30363D?style=flat&logo=javascript)](https://javascript.com)
-[![HTML5](https://img.shields.io/badge/-HTML5-30363D?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
-[![CSS3](https://img.shields.io/badge/-CSS3-30363D?style=flat&logo=css3)](https://www.w3.org/Style/CSS/Overview.en.html) [![Stylus](https://img.shields.io/badge/-Stylus-30363D?style=flat&logo=stylus)](https://stylus-lang.com/) [![Less](https://img.shields.io/badge/-Less-30363D?style=flat&logo=less)](https://lesscss.org/) [![Sass](https://img.shields.io/badge/-Sass-30363D?style=flat&logo=sass)](https://sass-lang.com/) [![Markdown](https://img.shields.io/badge/-Markdown-30363D?style=flat&logo=markdown)](https://daringfireball.net/projects/markdown/) [![Java](https://img.shields.io/badge/-java-30363D?style=flat&logo=java)](https://www.java.com/) [![Gradle](https://img.shields.io/badge/-Gradle-30363D?style=flat&logo=gradle)](https://gradle.org/)
-
-##### Currently learning:
-
-[![Vue](https://img.shields.io/badge/-Vue-30363D?style=flat&logo=vue.js)](https://vuejs.org/) [![TypeScript](https://img.shields.io/badge/-TypeScript-30363D?style=flat&logo=typescript)](https://www.typescriptlang.org/) [![NodeJS](https://img.shields.io/badge/-NodeJS-30363D?style=flat&logo=node.js)](https://nodejs.org/en/) [![NPM](https://img.shields.io/badge/-NPM-30363D?style=flat&logo=npm)](https://www.npmjs.com/) [![Express](https://img.shields.io/badge/-Express-30363D?style=flat&logo=express)](https://expressjs.com/pt-br/)
-[![Git](https://img.shields.io/badge/-Git-30363D?style=flat&logo=git)](https://git-scm.com/) [![MySQL](https://img.shields.io/badge/-MySQL-30363D?style=flat&logo=mysql)](https://www.mysql.com/)
-
-##### Interest in:
-
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-30363D?style=flat&logo=bootstrap)](https://getbootstrap.com/) [![React](https://img.shields.io/badge/-React-30363D?style=flat&logo=react)](https://pt-br.reactjs.org/) [![Prisma](https://img.shields.io/badge/-Prisma-30363D?style=flat&logo=prisma)](https://www.prisma.io/) [![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-30363D?style=flat&logo=tailwindcss)](https://tailwindcss.com/) [![Spring](https://img.shields.io/badge/-Spring-30363D?style=flat&logo=spring)](https://spring.io/) [![Wordpress](https://img.shields.io/badge/-Wordpress-30363D?style=flat&logo=wordpress)](https://wordpress.com/pt-br/) [![Woocommerce](https://img.shields.io/badge/-Woocommerce-30363D?style=flat&logo=woocommerce)](https://woocommerce.com/)
+<table>
+  <tr>
+    <td>Skills</td>
+    <td>
+      <a href="https://javascript.com"><img src="https://img.shields.io/badge/-Javascript-30363D?style=flat&amp;logo=javascript" alt="Javascript"></a>
+<a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/-HTML5-30363D?style=flat&amp;logo=html5&amp;logoColor=white" alt="HTML5"></a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://img.shields.io/badge/-CSS3-30363D?style=flat&amp;logo=css3" alt="CSS3"></a> <a href="https://stylus-lang.com/"><img src="https://img.shields.io/badge/-Stylus-30363D?style=flat&amp;logo=stylus" alt="Stylus"></a> <a href="https://lesscss.org/"><img src="https://img.shields.io/badge/-Less-30363D?style=flat&amp;logo=less" alt="Less"></a> <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/-Sass-30363D?style=flat&amp;logo=sass" alt="Sass"></a> <a href="https://daringfireball.net/projects/markdown/"><img src="https://img.shields.io/badge/-Markdown-30363D?style=flat&amp;logo=markdown" alt="Markdown"></a> <a href="https://www.java.com/"><img src="https://img.shields.io/badge/-java-30363D?style=flat&amp;logo=java" alt="Java"></a> <a href="https://gradle.org/"><img src="https://img.shields.io/badge/-Gradle-30363D?style=flat&amp;logo=gradle" alt="Gradle"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Learning</td>
+    <td>
+      <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/-Vue-30363D?style=flat&amp;logo=vue.js" alt="Vue"></a> <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-30363D?style=flat&amp;logo=typescript" alt="TypeScript"></a> <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/-NodeJS-30363D?style=flat&amp;logo=node.js" alt="NodeJS"></a> <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/-NPM-30363D?style=flat&amp;logo=npm" alt="NPM"></a> <a href="https://expressjs.com/pt-br/"><img src="https://img.shields.io/badge/-Express-30363D?style=flat&amp;logo=express" alt="Express"></a>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-30363D?style=flat&amp;logo=git" alt="Git"></a> <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySQL-30363D?style=flat&amp;logo=mysql" alt="MySQL"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Interested in</td>
+    <td>
+      <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/-Bootstrap-30363D?style=flat&amp;logo=bootstrap" alt="Bootstrap"></a> <a href="https://pt-br.reactjs.org/"><img src="https://img.shields.io/badge/-React-30363D?style=flat&amp;logo=react" alt="React"></a> <a href="https://www.prisma.io/"><img src="https://img.shields.io/badge/-Prisma-30363D?style=flat&amp;logo=prisma" alt="Prisma"></a> <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/-TailwindCSS-30363D?style=flat&amp;logo=tailwindcss" alt="TailwindCSS"></a> <a href="https://spring.io/"><img src="https://img.shields.io/badge/-Spring-30363D?style=flat&amp;logo=spring" alt="Spring"></a> <a href="https://wordpress.com/pt-br/"><img src="https://img.shields.io/badge/-Wordpress-30363D?style=flat&amp;logo=wordpress" alt="Wordpress"></a> <a href="https://woocommerce.com/"><img src="https://img.shields.io/badge/-Woocommerce-30363D?style=flat&amp;logo=woocommerce" alt="Woocommerce"></a>
+    </td>
+  </tr>
+  
+</table>
 
 #### Workspace:
 
