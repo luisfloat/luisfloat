@@ -5,18 +5,17 @@
 <table>
   <tr>
     <td>
-      <ul>
-        <p>
-          Hey there, it's Honor! <br>
-          I'm interested in <strong>Software Engineering</strong>. <br>
-          Currently learning <strong>Web Technologies</strong>. <br>
-          I'm freelancing, but <strong>open to work</strong>. <br>
-          You can reach me at <strong>ctc@honor2045.com</strong> or any social media.
-        </p>
-        <blockquote>
-        <p><strong>Note:</strong> I also have interest in Philosophy, Digital Design and Scifi Art.</p>
-        </blockquote>
-      </ul>
+      <h3>
+        Hey there, it's Honor! <br>
+      </h3>
+      <p>
+        You can reach me at <strong>ctc@honor2045.com</strong> or any social media. <br>
+        I'm interested in <strong>Software Engineering</strong>. <br>
+        Currently learning <strong>Web Technologies</strong>. <br>
+      </p>
+      <blockquote>
+      <p><strong>Note:</strong> I also have interest in Philosophy, Digital Design and Scifi Art.</p>
+      </blockquote>
     </td>
   </tr>
 </table>
