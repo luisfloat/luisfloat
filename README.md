@@ -56,8 +56,4 @@
 
 ### Contact me:
 
-<div>
-  <a href="https://www.twitter.com/honor2045" target="_blank"><img src="https://img.shields.io/badge/Twitter-222222?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/honor2045" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23222222?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contact@honor2045.com"><img src="https://img.shields.io/badge/Gmail-222222?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+<a href="https://instagram.com/honor.2045"><img src="https://img.shields.io/badge/-Instagram-30363D?style=flat&amp;logo=instagram" alt="Instagram"></a> <a href="https://twitter.com/honor2045"><img src="https://img.shields.io/badge/-Twitter-30363D?style=flat&amp;logo=twitter" alt="Twitter"></a> <a href="mailto:contact@honor2045.com"><img src="https://img.shields.io/badge/-Gmail-30363D?style=flat&amp;logo=gmail" alt="Gmail"></a>
