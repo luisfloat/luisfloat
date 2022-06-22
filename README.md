@@ -18,7 +18,7 @@
 
 ##### Currently learning:
 
-![Vue](https://img.shields.io/badge/-vue-gray?style=flat&logo=vue.js) ![TypeScript](https://img.shields.io/badge/-TypeScript-gray?style=flat&logo=typescript) ![NodeJS](https://img.shields.io/badge/-NodeJS-gray?style=flat&logo=node.js) ![NPM](https://img.shields.io/badge/-NPM-gray?style=flat&logo=npm) ![Express](https://img.shields.io/badge/-Express-gray?style=flat&logo=express)
+![Vue](https://img.shields.io/badge/-Vue-gray?style=flat&logo=vue.js) ![TypeScript](https://img.shields.io/badge/-TypeScript-gray?style=flat&logo=typescript) ![NodeJS](https://img.shields.io/badge/-NodeJS-gray?style=flat&logo=node.js) ![NPM](https://img.shields.io/badge/-NPM-gray?style=flat&logo=npm) ![Express](https://img.shields.io/badge/-Express-gray?style=flat&logo=express)
 ![Git](https://img.shields.io/badge/-Git-gray?style=flat&logo=git) ![MySQL](https://img.shields.io/badge/-MySQL-gray?style=flat&logo=mysql)
 
 ##### Interest in:
