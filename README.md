@@ -39,7 +39,7 @@
     </td>
   </tr>
   <tr>
-    <td>Interested in</td>spongia
+    <td>Interested in</td>
     <td>
       <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/-Bootstrap-30363D?style=flat&amp;logo=bootstrap" alt="Bootstrap"></a> <a href="https://pt-br.reactjs.org/"><img src="https://img.shields.io/badge/-React-30363D?style=flat&amp;logo=react" alt="React"></a> <a href="https://www.prisma.io/"><img src="https://img.shields.io/badge/-Prisma-30363D?style=flat&amp;logo=prisma" alt="Prisma"></a> <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/-TailwindCSS-30363D?style=flat&amp;logo=tailwindcss" alt="TailwindCSS"></a> <a href="https://spring.io/"><img src="https://img.shields.io/badge/-Spring-30363D?style=flat&amp;logo=spring" alt="Spring"></a> <a href="https://wordpress.com/pt-br/"><img src="https://img.shields.io/badge/-Wordpress-30363D?style=flat&amp;logo=wordpress" alt="Wordpress"></a> <a href="https://woocommerce.com/"><img src="https://img.shields.io/badge/-Woocommerce-30363D?style=flat&amp;logo=woocommerce" alt="Woocommerce"></a>
     </td>
