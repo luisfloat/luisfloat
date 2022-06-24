@@ -1,0 +1,38 @@
+-
+    var badgeApi = "https://img.shields.io/badge/$LABEL-$NAME-$COLOR?style=flat&logo=$LOGO";
+
+    var getBadgeUrl = (info) => {
+        return badgeApi
+            .replaceAll("$LABEL", info.label ? info.label : "")
+            .replaceAll("$NAME", info.name ? info.name : "")
+            .replaceAll("$COLOR", info.color ? info.color : "")
+            .replaceAll("$LOGO", info.logo ? info.logo : "");
+    };
+
+mixin badge(item)
+    - var url = getBadgeUrl(item);
+    a(href=item.link): img(src=url alt=item.alt)
+    | 
+
+mixin badges(session)
+    - var sessionItems = session.items;
+    each sessionItem in sessionItems
+        +badge(sessionItem)
+
+mixin badge-session(session, type="h3")
+    #{type}= session.name
+    +badges(session)
+
+mixin row(title, items)
+    tr
+        td!= title
+        td: +tr(items)
+
+mixin tr(items)
+    each item in items
+        +badge(item)
+
+mixin table(rows)
+    table
+        each row in rows
+            +row(row.name, row.items)
