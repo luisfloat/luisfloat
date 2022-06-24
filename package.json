@@ -1,0 +1,16 @@
+{
+  "name": "honor2045",
+  "version": "0.1.0",
+  "description": "Config files for my profile.",
+  "main": "index.pug",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "config",
+    "profile"
+  ],
+  "author": "honor2045 <contact@honor2045.com>",
+  "homepage": "https://github.com/honor2045",
+  "license": "SEE LICENSE IN LICENSE.md"
+}
