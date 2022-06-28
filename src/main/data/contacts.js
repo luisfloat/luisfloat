@@ -4,28 +4,28 @@ export default {
     name: "Contact Me",
     items: [
         {
-            link: "https://twitter.com/honor2045",
+            link: "https://twitter.com/luisfloat",
             name: "Twitter",
             color: badgeColor,
             logo: "twitter",
             alt: "Twitter",
         },
         {
-            link: "https://github.com/honor2045",
+            link: "https://github.com/luisfloat",
             name: "Github",
             color: badgeColor,
             logo: "github",
             alt: "Github",
         },
         {
-            link: "https://instagram.com/honor.2045",
+            link: "https://instagram.com/luisfloat",
             name: "Instagram",
             color: badgeColor,
             logo: "instagram",
             alt: "Instagram",
         },
         {
-            link: "mailto:contact@honor2045.com",
+            link: "mailto:luisfloat@gmail.com",
             name: "Gmail",
             color: badgeColor,
             logo: "gmail",

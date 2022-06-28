@@ -1,5 +1,5 @@
 {
-  "name": "honor2045",
+  "name": "luisfloat",
   "version": "0.1.0",
   "description": "Config files for my profile.",
   "main": "compile.js",
@@ -12,8 +12,8 @@
     "config",
     "profile"
   ],
-  "author": "honor2045 <contact@honor2045.com>",
-  "homepage": "https://github.com/honor2045",
+  "author": "luisfloat <luisfloat@gmail.com>",
+  "homepage": "https://github.com/luisfloat",
   "license": "SEE LICENSE IN LICENSE.md",
   "devDependencies": {
     "pug": "^3.0.2"
