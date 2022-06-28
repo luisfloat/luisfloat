@@ -25,7 +25,7 @@ export default {
             alt: "Instagram",
         },
         {
-            link: "mailto:luisfloat@gmail.com",
+            link: "mailto:contact@luisfloat.com",
             name: "Gmail",
             color: badgeColor,
             logo: "gmail",
