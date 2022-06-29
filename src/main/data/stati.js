@@ -14,6 +14,13 @@ export default {
             name: "autodidactically",
             color: "00991f",
             alt: "learning status" 
+        },
+        {
+            link: "https://www.google.com/maps/place/State+of+Santa+Catarina",
+            label: "living",
+            name: "Brazil, SC",
+            color: "00991f",
+            alt: "living status" 
         }
     ]
 };
