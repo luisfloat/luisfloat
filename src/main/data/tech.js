@@ -75,6 +75,13 @@ export default {
             name: "Learning",
             items: [
                 {
+                    link: "https://nestjs.com/",
+                    alt: "NestJS",
+                    name: "NestJS",
+                    color: badgeColor,
+                    logo: "nestjs"
+                },
+                {
                     link: "https://vuejs.org/",
                     alt: "Vue",
                     name: "Vue",
