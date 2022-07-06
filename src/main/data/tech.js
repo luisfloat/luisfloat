@@ -82,18 +82,18 @@ export default {
                     logo: "nestjs"
                 },
                 {
-                    link: "https://vuejs.org/",
-                    alt: "Vue",
-                    name: "Vue",
-                    color: badgeColor,
-                    logo: "vue.js"
-                },
-                {
                     link: "https://www.typescriptlang.org/",
                     alt: "Typescript",
                     name: "Typescript",
                     color: badgeColor,
                     logo: "typescript"
+                },
+                {
+                    link: "https://git-scm.com/",
+                    alt: "Git",
+                    name: "Git",
+                    color: badgeColor,
+                    logo: "git"
                 },
                 {
                     link: "https://nodejs.org/en/",
@@ -117,18 +117,18 @@ export default {
                     logo: "express"
                 },
                 {
-                    link: "https://git-scm.com/",
-                    alt: "Git",
-                    name: "Git",
-                    color: badgeColor,
-                    logo: "git"
-                },
-                {
                     link: "https://mysql.com/",
                     alt: "MySQL",
                     name: "MySQL",
                     color: badgeColor,
                     logo: "mysql"
+                },
+                {
+                    link: "https://vuejs.org/",
+                    alt: "Vue",
+                    name: "Vue",
+                    color: badgeColor,
+                    logo: "vue.js"
                 },
             ]
         },
