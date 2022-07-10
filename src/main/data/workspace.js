@@ -30,6 +30,13 @@ export default {
             name: "Android",
             color: badgeColor,
             logo: "android"
+        },
+        {
+            link: "https://apps.google.com",
+            alt: "Google Apps",
+            name: "Google Apps",
+            color: badgeColor,
+            logo: "google"
         }
     ]
 };
