@@ -12,7 +12,7 @@
     "config",
     "profile"
   ],
-  "author": "Luis Float <contact@luisfloat.com>",
+  "author": "Luis Float <contact@luisfloat.com> (https://luisfloat.com)",
   "homepage": "https://github.com/luisfloat",
   "license": "SEE LICENSE IN LICENSE.md",
   "devDependencies": {
