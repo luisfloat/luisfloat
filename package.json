@@ -13,7 +13,7 @@
     "profile"
   ],
   "author": "Luis Float <contact@luisfloat.com> (https://luisfloat.com)",
-  "homepage": "https://github.com/luisfloat",
+  "homepage": "https://github.com/luisfloat/luisfloat",
   "license": "SEE LICENSE IN LICENSE.md",
   "devDependencies": {
     "pug": "^3.0.2"
