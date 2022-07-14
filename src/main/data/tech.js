@@ -1,4 +1,5 @@
-const badgeColor = '30363D';
+import { colors } from "../tokens.js";
+const badgeColor = colors.decisions.badge.normal;
 
 export default {
     name: "Technologies",

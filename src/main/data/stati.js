@@ -1,3 +1,6 @@
+import { colors } from "../tokens.js";
+const badgeColor = colors.decisions.badge.primary;
+
 export default {
     name: "Luis",
     items: [
@@ -5,21 +8,21 @@ export default {
             link: "https://github.com/luisfloat",
             label: "working",
             name: "freelancing; open to work",
-            color: "005c99",
+            color: badgeColor,
             alt: "working status"
         },
         {
             link: "https://github.com/luisfloat",
             label: "learning",
             name: "autodidactically",
-            color: "005c99",
+            color: badgeColor,
             alt: "learning status"
         },
         {
             link: "https://www.google.com/maps/place/State+of+Santa+Catarina",
             label: "living",
             name: "Brazil, SC",
-            color: "005c99",
+            color: badgeColor,
             alt: "living status" 
         }
     ]
