@@ -1,4 +1,4 @@
-var badgeColor = '30363D';
+const badgeColor = '30363D';
 
 export default {
     name: "Technologies",
