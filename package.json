@@ -1,6 +1,6 @@
 {
     "name": "luisfloat",
-    "version": "0.2.4",
+    "version": "0.2.5",
     "description": "Config files for my profile.",
     "main": "compile.js",
     "type": "module",
@@ -14,6 +14,7 @@
     ],
     "author": "Luis Float <contact@luisfloat.com> (https://luisfloat.com)",
     "homepage": "https://github.com/luisfloat/luisfloat",
+    "repo": "github:luisfloat/luisfloat",
     "bugs": "https://github.com/luisfloat/luisfloat/issues",
     "license": "SEE LICENSE IN LICENSE.md",
     "devDependencies": {
