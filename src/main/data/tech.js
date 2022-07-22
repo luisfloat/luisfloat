@@ -50,6 +50,13 @@ export default {
                     logo: "sass"
                 },
                 {
+                    link: "https://git-scm.com/",
+                    alt: "Git",
+                    name: "Git",
+                    color: badgeColor,
+                    logo: "git"
+                },
+                {
                     link: "https://daringfireball.net/projects/markdown/",
                     alt: "Markdown",
                     name: "Markdown",
@@ -69,8 +76,8 @@ export default {
                     name: "Gradle",
                     color: badgeColor,
                     logo: "gradle"
-                }
-            ]
+                },
+            ],
         },
         {
             name: "Learning",
@@ -90,13 +97,6 @@ export default {
                     logo: "typescript"
                 },
                 {
-                    link: "https://git-scm.com/",
-                    alt: "Git",
-                    name: "Git",
-                    color: badgeColor,
-                    logo: "git"
-                },
-                {
                     link: "https://nodejs.org/en/",
                     alt: "NodeJS",
                     name: "NodeJS",
@@ -104,18 +104,18 @@ export default {
                     logo: "node.js"
                 },
                 {
-                    link: "https://www.npmjs.com/",
-                    alt: "NPM",
-                    name: "NPM",
-                    color: badgeColor,
-                    logo: "npm"
-                },
-                {
                     link: "https://expressjs.com/",
                     alt: "Express",
                     name: "Express",
                     color: badgeColor,
                     logo: "express"
+                },
+                {
+                    link: "https://www.npmjs.com/",
+                    alt: "NPM",
+                    name: "NPM",
+                    color: badgeColor,
+                    logo: "npm"
                 },
                 {
                     link: "https://mysql.com/",
@@ -138,7 +138,7 @@ export default {
                     color: badgeColor,
                     logo: "vue.js"
                 },
-            ]
+            ],
         },
         {
             name: "Viewing",
@@ -192,7 +192,7 @@ export default {
                     color: badgeColor,
                     logo: "woocommerce"
                 },
-            ]
-        }
-    ]
+            ],
+        },
+    ],
 };
