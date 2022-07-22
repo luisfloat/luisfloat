@@ -131,6 +131,13 @@ export default {
                     color: badgeColor,
                     logo: "vue.js"
                 },
+                {
+                    link: "https://vitepress.vuejs.org/",
+                    alt: "VitePress",
+                    name: "VitePress",
+                    color: badgeColor,
+                    logo: "vue.js"
+                },
             ]
         },
         {
