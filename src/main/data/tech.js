@@ -141,7 +141,7 @@ export default {
             ]
         },
         {
-            name: "Interested in",
+            name: "Viewing",
             items: [
                 {
                     link: "https://getbootstrap.com/",
