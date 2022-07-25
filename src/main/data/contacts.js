@@ -2,7 +2,7 @@ import { colors } from "../tokens.js";
 const badgeColor = colors.decisions.badge.normal;
 
 export default {
-    name: "Contact Me",
+    name: "Socials",
     items: [
         {
             link: "https://twitter.com/luisfloat",
